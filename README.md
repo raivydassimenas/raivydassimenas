@@ -1,4 +1,6 @@
-### Hi there 👋
+## Short intro
+
+I'm an Associate Professor of Mathematics at Vilnius University, Lithuania. My main area is number theory. However, I also teach CS courses on web development, Java, and Python. I'm interested in Machine learning. For several years in a row, students wrote their Bachelor's thesis on Machine learning under my supervision.
 
 <!--
 **raivydassimenas/raivydassimenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
